@@ -1,0 +1,29 @@
+html{
+  background-color: red; 
+}
+
+img{
+  width: 100px;
+}
+
+
+#box{
+  margin: 0 auto;
+}
+
+th, td{
+  text-align: center;
+  padding: 20px;
+
+}
+tr{
+  border-style: solid;
+  border-color: black;
+  margin-bottom: 5px;
+}
+.online{
+  background-color: green;
+}
+h1{
+  padding: 50px;
+}
